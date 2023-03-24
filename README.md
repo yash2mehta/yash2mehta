@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms and Computation Structures!**
 
-- 📝 I write articles on Chess at [https://yashmehta.info/blog/](https://yashmehta.info/blog/)
+- 📝 I write articles (on Chess) at [https://yashmehta.info/blog/](https://yashmehta.info/blog/)
 
-- 📫 How to reach me **yash2.mehta@gmail.com**
+- 📫 Reach me via email at **yash2.mehta@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yashmehta-1/](https://www.linkedin.com/in/yashmehta-1/)
+- 📄 Read my resume here: [https://docsend.com/view/igtq27vbpd63emta](https://docsend.com/view/igtq27vbpd63emta)
 
-- ⚡ Fun fact **I love staring at a computer screen for hours as equally as interacting with people!**
+- ⚡ Fun fact: **I love staring at a computer screen for hours as equally as interacting with people!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
