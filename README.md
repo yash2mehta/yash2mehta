@@ -11,7 +11,7 @@
 
 - 📄 Read my resume here: [https://docsend.com/view/igtq27vbpd63emta](https://docsend.com/view/igtq27vbpd63emta)
 
-- ⚡ Fun fact: **I love staring at a computer screen for hours as equally as interacting with people!**
+- ⚡ Fun fact: **I equally love staring at a computer screen for hours AS MUCH AS interacting with people!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
