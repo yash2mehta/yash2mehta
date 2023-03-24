@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Mehta</h1>
-<h3 align="center">A passionate tech enthusiast and lifelong student!</h3>
+<h3 align="center">A tech enthusiast and lifelong student!</h3>
 
 - 🔭 I’m currently working on **Geometric Brownian Motion for simulating stock prices**
 
